@@ -8,7 +8,7 @@ namespace Product
     {
         static void Main(string[] args)
         {
-            List<ComumProduct> list = new List<ComumProduct>;
+            List<ComumProduct> list = new List<ComumProduct>();
 
             Console.Write("Enter the number of product: ");
             int n = int.Parse(Console.ReadLine());
