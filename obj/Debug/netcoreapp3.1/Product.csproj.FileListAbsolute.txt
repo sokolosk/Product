@@ -1,0 +1,12 @@
+/Users/rodrigolima/projects/Product/bin/Debug/netcoreapp3.1/Product.deps.json
+/Users/rodrigolima/projects/Product/bin/Debug/netcoreapp3.1/Product.runtimeconfig.json
+/Users/rodrigolima/projects/Product/bin/Debug/netcoreapp3.1/Product.runtimeconfig.dev.json
+/Users/rodrigolima/projects/Product/bin/Debug/netcoreapp3.1/Product.dll
+/Users/rodrigolima/projects/Product/bin/Debug/netcoreapp3.1/Product.pdb
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.csprojAssemblyReference.cache
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.AssemblyInfoInputs.cache
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.AssemblyInfo.cs
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.csproj.CoreCompileInputs.cache
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.dll
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.pdb
+/Users/rodrigolima/projects/Product/obj/Debug/netcoreapp3.1/Product.genruntimeconfig.cache
